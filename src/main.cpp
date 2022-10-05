@@ -89,7 +89,7 @@ void setup() {
 
   // Create the BLE Device
 
-  BLEDevice::init("ESP32 as iBeacon");
+  BLEDevice::init("Andreo's Beacon");
 
   // Create the BLE Server
 
